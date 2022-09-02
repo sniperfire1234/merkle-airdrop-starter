@@ -21,7 +21,7 @@ export default function Home() {
       <div className={styles.home}>
         {/* Project logo */}
         <div>
-          <Image src="/logo.png" alt="Logo" width={250} height={250} priority />
+          <Image src="https://im4.ezgif.com/tmp/ezgif-4-ac0d7b01c2.gif" alt="Logo" width={250} height={250} priority />
         </div>
 
         {/* Project introduction article, if it exists */}
